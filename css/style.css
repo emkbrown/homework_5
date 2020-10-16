@@ -251,24 +251,4 @@ header{
     animation: none;
     -webkit-animation: none;
   }
-
-  @-webkit-keyframes logo_wiggle{
-    /*Your code here.*/
-    0%{
-      width: 400px;
-    }
-    100%{
-      width: 400px;
-    }
-  }
-  
-  @keyframes logo_wiggle{
-    /*Your code here.*/
-    0%{
-      width: 400px;
-    }
-    100%{
-      width: 400px;
-    }
-  } 
 }
